@@ -14,23 +14,23 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', '');
+define('WP_REDIS_HOST', 'citymine-001.yvfyxo.0001.use1.cache.amazonaws.com');
  
 define('WP_HOME','');
 define('WP_SITEURL','');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', '');
+define('DB_NAME', 'citymine');
 
 /** MySQL database username */
-define('DB_USER', '');
+define('DB_USER', 'citymine');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'citymine');
 
 /** MySQL hostname */
-define('DB_HOST', '');
+define('DB_HOST', 'rds-citymine.coiiojnswrve.us-east-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
