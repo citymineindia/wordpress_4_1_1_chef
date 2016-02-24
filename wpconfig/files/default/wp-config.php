@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'citymine-001.yvfyxo.0001.use1.cache.amazonaws.com');
  
-define('WP_HOME','CityMine-1670928241.us-east-1.elb.amazonaws.com');
-define('WP_SITEURL','CityMine-1670928241.us-east-1.elb.amazonaws.com');
+define('WP_HOME','citymine-447349321.us-east-1.elb.amazonaws.com');
+define('WP_SITEURL','citymine-447349321.us-east-1.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
